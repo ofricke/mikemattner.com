@@ -1,15 +1,16 @@
+---
 intro:
   title: Hello, there.
-  body: I&rsquo;m a designer and developer in the great state of Michigan &mdash; currently working as a Senior UI/UX Developer at Aisle&nbsp;Rocket.
-  social: I'm @mikemattner on <a href="https://www.linkedin.com/in/mikeamattner/">LinkedIn</a>, 
-      <a href="https://twitter.com/mikemattner">Twitter</a>, <a href="https://codepen.io/mikemattner/#">Codepen</a>, 
-      &amp; <a href="https://github.com/mikemattner">GitHub</a>.
+  body: I&rsquo;m a designer and developer in the great state of Michigan &mdash;
+    currently working as a Senior UI/UX Developer at Aisle&nbsp;Rocket.
+  social: I'm @mikemattner on <a href="https://www.linkedin.com/in/mikeamattner/">LinkedIn</a>,
+    <a href="https://twitter.com/mikemattner">Twitter</a>, <a href="https://codepen.io/mikemattner/#">Codepen</a>,
+    &amp; <a href="https://github.com/mikemattner">GitHub</a>.
   image: img/alt.jpg
   imgAlt: A Picture of me.
-
 writing:
   title: Writing
-  body: Writing about my profession, hobbies, and other longer format topics.
-        Typically rambling and a little boring.
-  buttonTitle: Read More
-  link: /writing
+  body: Writing about my profession, hobbies, and other longer format topics. Typically
+    rambling and a little boring.
+  buttonTitle: Lies Mehr
+  link: "/artikel"
